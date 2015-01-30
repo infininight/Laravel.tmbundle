@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>@unless($1)
-    $2
+	$2
 @endunless</string>
 	<key>name</key>
 	<string>unless</string>

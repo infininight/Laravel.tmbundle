@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>array_sort(${1:\$array}, ${2:function(${3:\$value})
 {
-    return $4;
+	return $4;
 \}});$5</string>
 	<key>name</key>
 	<string>array_sort</string>

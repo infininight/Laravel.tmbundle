@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>@elseif($1)
-    $2</string>
+	$2</string>
 	<key>name</key>
 	<string>elseif</string>
 	<key>scope</key>

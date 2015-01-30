@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>@section('${1:name}')
-    $2
+	$2
 @${3|stop,show,overwrite|}</string>
 	<key>name</key>
 	<string>section</string>
