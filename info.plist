@@ -7,9 +7,7 @@
 	<key>contactName</key>
 	<string>Laurent Goussard</string>
 	<key>description</key>
-	<string>Laravel 5 Bundle
-
-Blade language grammar is based on https://github.com/Medalink/laravel-blade</string>
+	<string>Model–view–controller web application framework for PHP.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
