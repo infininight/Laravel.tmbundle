@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Route::when</string>
 	<key>scope</key>
-	<string>soure.php</string>
+	<string>source.php</string>
 	<key>tabTrigger</key>
 	<string>r:w</string>
 	<key>uuid</key>
